@@ -1,6 +1,6 @@
 # BOOSTRAP
  Boostrap Practice Lab
- 
+
 ## Project Setup
 To start the project, I used Bootstrap, a popular CSS framework that helps in building responsive and modern web designs quickly. The initial setup involved including Bootstrap via CDN (Content Delivery Network) to ensure that the latest version of Bootstrap’s styles and scripts were used.
 
@@ -37,4 +37,5 @@ styles.css`: CSS for styling
 2. Click the "Fetch Dog Image" button to retrieve and display a random dog image.
 
 ## Author
+Student ID: N01676890
 Francis Amoah
